@@ -8,18 +8,25 @@ Professor of the College of Intelligence and Technology, National University of 
 
 My research interests include autonous and swarm control of UAVs, especially the fixed-wing UAVs and the wheeled robots, coordination control, image-serve control, collective intelligence and some related topics. Please drop me a message if you also have interests with me by my email: <u>xkwang@nudt.edu.cn</u> or <u>wxk26605771@163.com</u>.
 
+[6] Xiangke Wang*, Huayong Zhu. On the Comparisons of  Unit Dual Quaternion and Homogeneous Transformation Matrix. Advances in Applied Clifford Algebras, vol.24, no 1, pp: 213-229, 2014. (SCI Index: 000331955100016 ，IF(2012)= 0.584) 
+[7] Xiangke Wang*, Jiahu Qin, Changbin Yu. ISS Method for Coordination Control of Nonlinear Dynamical Agents under Directed Topology. IEEE Transactions on Cybernetics. vol. 44, no. 10, pp. 1832–1845, 2014. (SCI Index: 000342228100011 , IF(2012)=3.236) 
 
 
-[4] Xiangke Wang and Changbin Yu*. Unit Dual Quaternion-Based Feedback Linearization Tracking Problem for Attitude and Position Dynamics. Systems and Control Letters. vol. 62, no. 3, pp. 225–233, 2013. (SCI Index: 000317257500001, IF(2012)=1.667)
-[5] Huayong Zhu, Yirui Cong, Xiangke Wang*, Daibing Zhang, Qingjie Zhang.  Consensusabilization for Continuous-Time High-Order Multiagent Systems with Time-Varying Delays. Mathematical Problems in Engineering. 2013（3）:831-842, 2013.  (SCI Index: 000324416600001, IF(2012)=1.383) 
 
 
 # Selected Journal Papers
+
+## Year 2014
+<ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AACA]]</b></font> <b>Xiangke Wang*</b>, and Huayong Zhu: <i><u> On the Comparisons of  Unit Dual Quaternion and Homogeneous Transformation Matrix</u></i>. <font color="green">Advances in Applied Clifford Algebras</font>. vol.24, no 1, pp: 213-229, 2014. (SCI Index: 000331955100016 ，IF(2012)= 0.584) <a href = "https:">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TC]]</b></font> <b>Xiangke Wang*</b>, Jiahu Qin, and Changbin Yu: <i><u> ISS Method for Coordination Control of Nonlinear Dynamical Agents under Directed Topology</u></i>. <font color="green">IEEE Transactions on Cybernetics</font>. vol. 44, no. 10, pp. 1832–1845, 2014. (SCI Index: 000342228100011 , IF(2012)=3.236)<a href = "https:">[PDF]</a></li></p>
+</ol>
+
 ## Year 2013
 <ol>
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[KTA]]</b></font> <b>Xiangke Wang</b>, and Changbin Yu*: <i><u> Unit Dual Quaternion-Based Feedback Linearization Tracking Problem for Attitude and Position Dynamics</u></i>. <font color="green">Mathematical Problems in Engineering</font>. vol. 62, no. 3, pp. 225–233, 2013. (SCI Index: 000317257500001, IF(2012)=1.667)<a href = "https:">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[MPE]]</b></font> <b>Xiangke Wang</b>, and Changbin Yu*: <i><u> Unit Dual Quaternion-Based Feedback Linearization Tracking Problem for Attitude and Position Dynamics</u></i>. <font color="green">Mathematical Problems in Engineering</font>. vol. 62, no. 3, pp. 225–233, 2013. (SCI Index: 000317257500001, IF(2012)=1.667)<a href = "https:">[PDF]</a></li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[KTA]]</b></font> Huayong Zhu, Yirui Cong, <b>Xiangke Wang*</b>, Daibing Zhang, and Qingjie Zhang: <i><u> Consensusabilization for Continuous-Time High-Order Multiagent Systems with Time-Varying Delays</u></i>. <font color="green">Systems and Control Letters</font>. 2013（3）:831-842, 2013.  (SCI Index: 000324416600001, IF(2012)=1.383) <a href = "https:">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCL]]</b></font> Huayong Zhu, Yirui Cong, <b>Xiangke Wang*</b>, Daibing Zhang, and Qingjie Zhang: <i><u> Consensusabilization for Continuous-Time High-Order Multiagent Systems with Time-Varying Delays</u></i>. <font color="green">Systems and Control Letters</font>. 2013（3）:831-842, 2013.  (SCI Index: 000324416600001, IF(2012)=1.383) <a href = "https:">[PDF]</a></li></p>
 </ol>
 
 
