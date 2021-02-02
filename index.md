@@ -15,7 +15,7 @@ My research interests include autonous and swarm control of UAVs, especially the
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[JAE]]</b></font> Shulong Zhao, <b>Xiangke Wang*</b>, Daibing Zhang and Lincheng Shen: <i><u> Model-Free Fuzzy Adaptive Control of the Heading Angle of Fixed-Wing Unmanned Aerial Vehicles</u></i>. <font color="green">Journal of Aerospace Engineering</font>. 2017, 30(4): 04017019.<a href = "https:">[PDF]</a></li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCIS]]</b></font> Yangguang, Yu and Zhiwen, Zeng and Zhongkui, Li and <b>Xiangke Wang*</b> and Lincheng, Shen: <i><u> Event-triggered encirclement control of multi-agent systems with bearing rigidity</u></i>. <font color="green">SCIENCE CHINA Information Sciences</font>. 60(11), 110203 (2017).<a href = "https:">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCIS]]</b></font> Yangguang, Yu and Zhiwen, Zeng and Zhongkui, Li, <b>Xiangke Wang*</b> and Lincheng, Shen: <i><u> Event-triggered encirclement control of multi-agent systems with bearing rigidity</u></i>. <font color="green">SCIENCE CHINA Information Sciences</font>. 60(11), 110203 (2017).<a href = "https:">[PDF]</a></li></p>
 </ol>
 
 ## Year 2016
