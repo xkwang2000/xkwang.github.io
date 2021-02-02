@@ -10,8 +10,6 @@ My research interests include autonous and swarm control of UAVs, especially the
 
 
 # Selected Journal Papers
-
-## Year 2020: 
 <ol> 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[JMAA]</b></font> <b>Xiangke Wang*</b>, Dapeng Han, Changbin Yu, and Zhiqiang Zheng: <i><u> The Geometric Structure of Unit Dual Quaternion with Application in Kinematic Control</u></i>. <font color="green">Journal of Mathematical Analysis and Applications</font>. vol. 389, no. 2, pp. 1352–1364, 2012. (SCI Index: 000300206700052, IF(2012)=1.050) <a href = "https://github.com/xkwang2000/xkwang2000.github.io/blob/gh-pages/papers/2012-The%20geometric%20structure%20of%20unit%20dual%20quaternion%20with%20applicationin%20kinematic%20control.pdf">[PDF]</a></li></p>
 
