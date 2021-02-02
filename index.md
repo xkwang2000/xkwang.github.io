@@ -18,8 +18,6 @@ My research interests include autonous and swarm control of UAVs, especially the
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCIS]]</b></font> Yangguang, Yu and Zhiwen, Zeng and Zhongkui, Li and <b>Xiangke Wang*</b> and Lincheng, Shen: <i><u> Event-triggered encirclement control of multi-agent systems with bearing rigidity</u></i>. <font color="green">SCIENCE CHINA Information Sciences</font>. 60(11), 110203 (2017).<a href = "https:">[PDF]</a></li></p>
 </ol>
 
-
-
 ## Year 2016
 <ol>
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NC]]</b></font> <b>Xiangke Wang*</b>, Zhiwen Zeng, Yirui Cong: <i><u> Multi-agent distributed coordination control: Developments and directions via graph viewpoint</u></i>. <font color="green">Neurocomputing</font>. 2016, 199: 204-218.<a href = "https:">[PDF]</a></li></p>
