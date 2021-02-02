@@ -6,7 +6,7 @@ layout: page
 # Brief Bio：
 Professor of the College of Intelligence and Technology, National University of Defense Technology (NUDT), Changsha, Hunan, China.
 
-My research interests include autonous and swarm control of UAVs, especially the fixed-wing UAVs and the wheeled robots, coordination control, image-serve control, collective intelligence and some related topics. Please drop me a message if you also have interests with me by my email: <u>wxk26605771@163.com</u> or <u>xkwang@nudt.edu.cn</u>.
+My research interests include autonous and swarm control of UAVs, especially the fixed-wing UAVs and the wheeled robots, coordination control, image-serve control, collective intelligence and some related topics. Please drop me a message if you also have interests with me by my email: <u>xkwang@nudt.edu.cn</u> or <u>wxk26605771@163.com</u>.
 
 
 # Selected Journal Papers
