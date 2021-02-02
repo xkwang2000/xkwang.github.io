@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Brief Bio"
+date:   2020-03-30 21:03:36 +0530
+---
+Professor of the College of Intelligence and Technology, National University of Defense Technology (NUDT), Changsha, Hunan, China.
+
+My research interests include ...... and some related topics. 
+
+Please drop me a message if you also have interests with me by my email: [wxk26605771@163.com][email].
+
+[email]: wxk26605771@163.com
