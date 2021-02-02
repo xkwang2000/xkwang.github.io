@@ -17,7 +17,9 @@ My research interests include autonous and swarm control of UAVs, especially the
 # Selected Journal Papers
 ## Year 2013
 <ol>
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[KTA]]</b></font> <b>Xiangke Wang*</b>, and Changbin Yu*: <i><u> Unit Dual Quaternion-Based Feedback Linearization Tracking Problem for Attitude and Position Dynamics</u></i>. <font color="green">Systems and Control Letters</font>. vol. 62, no. 3, pp. 225–233, 2013. (SCI Index: 000317257500001, IF(2012)=1.667)<a href = "https:">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[KTA]]</b></font> <b>Xiangke Wang</b>, and Changbin Yu*: <i><u> Unit Dual Quaternion-Based Feedback Linearization Tracking Problem for Attitude and Position Dynamics</u></i>. <font color="green">Mathematical Problems in Engineering</font>. vol. 62, no. 3, pp. 225–233, 2013. (SCI Index: 000317257500001, IF(2012)=1.667)<a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[KTA]]</b></font> Huayong Zhu, Yirui Cong, <b>Xiangke Wang*</b>, Daibing Zhang, and Qingjie Zhang: <i><u> Consensusabilization for Continuous-Time High-Order Multiagent Systems with Time-Varying Delays</u></i>. <font color="green">Systems and Control Letters</font>. 2013（3）:831-842, 2013.  (SCI Index: 000324416600001, IF(2012)=1.383) <a href = "https:">[PDF]</a></li></p>
 </ol>
 
 
