@@ -8,16 +8,18 @@ Professor of the College of Intelligence and Technology, National University of 
 
 My research interests include autonous and swarm control of UAVs, especially the fixed-wing UAVs and the wheeled robots, coordination control, image-serve control, collective intelligence and some related topics. Please drop me a message if you also have interests with me by my email: <u>xkwang@nudt.edu.cn</u> or <u>wxk26605771@163.com</u>.
 
-Year 2016:
-[10] Xiangke Wang*, Zhiwen Zeng, Yirui Cong. Multi-agent distributed coordination control: Developments and directions via graph viewpoint. Neurocomputing, 2016, 199: 204-218.
-[11] Shengde Jia, Xiangke Wang*, Lincheng Shen. A Continuous-Time Markov Decision Process-Based Method With Application in a Pursuit-Evasion Example. IEEE Transactions on Systems, Man, and Cybernetics: Systems.  2016,46(9),1215 - 1225
-[12] Zhiwen Zen, Xiangke Wang*, Zhiqiang Zheng. Convergence analysis using the edge Laplacian: Robust consensus of nonlinear multi-agent systems via ISS method. International Journal of Robust and Nonlinear Control.  2016, 26(5): 1051-1072. 
-[13] Zhiwen Zen, Xiangke Wang*, Zhiqiang Zheng. Edge agreement of multi-agent system with quantised measurements via the directed edge Laplacian.  IET Control Theory & Applications.  2016, 10(13): 1583 – 1589
-
-
-
-
 # Selected Journal Papers
+## Year 2017
+<ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NAHS]]</b></font> Zhiwen Zen, <b>Xiangke Wang*</b>, and Zhiqiang Zheng: <i><u> Edge Agreement of Second-order Multi-agent System with Dynamic Quantization via Directed Edge Laplacian</u></i>. <font color="green">Nonlinear Analysis Hybrid Systems</font>. 2017,23(2):1-10.<a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[JAE]]</b></font> Shulong Zhao, <b>Xiangke Wang*</b>, Daibing Zhang and Lincheng Shen: <i><u> Model-Free Fuzzy Adaptive Control of the Heading Angle of Fixed-Wing Unmanned Aerial Vehicles</u></i>. <font color="green">Journal of Aerospace Engineering</font>. 2017, 30(4): 04017019.<a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCIS]]</b></font> Yangguang, Yu and Zhiwen, Zeng and Zhongkui, Li and <b>Xiangke Wang*</b> and Lincheng, Shen: <i><u> Event-triggered encirclement control of multi-agent systems with bearing rigidity</u></i>. <font color="green">SCIENCE CHINA Information Sciences</font>. 60(11), 110203 (2017).<a href = "https:">[PDF]</a></li></p>
+</ol>
+
+
+
 ## Year 2016
 <ol>
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NC]]</b></font> <b>Xiangke Wang*</b>, Zhiwen Zeng, Yirui Cong: <i><u> Multi-agent distributed coordination control: Developments and directions via graph viewpoint</u></i>. <font color="green">Neurocomputing</font>. 2016, 199: 204-218.<a href = "https:">[PDF]</a></li></p>
