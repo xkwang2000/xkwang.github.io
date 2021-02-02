@@ -13,27 +13,15 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Xinwang Liu
+  name: Xiangke Wang
   tagline: Professor
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    github:  xinwangliu
-    google: citations?hl=zh-CN&user=A56vWC4AAAAJ&view_op=list_works&sortby=pubdate
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
+    github:  xkwang2000
+
 
     # Mastodon instances
     # mastodon:
