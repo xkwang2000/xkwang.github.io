@@ -2,16 +2,14 @@
 layout: page
 <title>Xinwang Liu: Homepage</title>
 ---
-# News
 
 # Brief Bio：
-
 Professor of the College of Intelligence and Technology, National University of Defense Technology (NUDT), Changsha, Hunan, China.
 
-My research interests include ....... some related topics. Please drop me a message if you also have interests with me by my email: <u>wxk26605771@163.com</u>.
+My research interests include autonous and swarm control of UAVs, especially the fixed-wing UAVs and the wheeled robots, coordination control, image-serve control, collective intelligence and some related topics. Please drop me a message if you also have interests with me by my email: <u>wxk26605771@163.com</u> or <u>xkwang@nudt.edu.cn</u>.
 
 
-### Journal Papers
+## Selected Journal Papers
 
 [1] Xiangke Wang*, Dapeng Han, Changbin Yu and Zhiqiang Zheng. The Geometric Structure of Unit Dual Quaternion with Application in Kinematic Control. Journal of Mathematical Analysis and Applications. vol. 389, no. 2, pp. 1352–1364, 2012. (SCI Index: 000300206700052, IF(2012)=1.050) 
 [2] Xiangke Wang, Changbin Yu* and Zhiyun Lin. A Dual Quaternion Solution to Attitude and Position Control for Rigid-body Coordination. IEEE Transactions on Robotics, 2012. vol. 28, no. 5, pp. 1162–1170, 2012. Oct. (SCI Index: 000309728700016, IF(2012) = 2.571/3.063) 
