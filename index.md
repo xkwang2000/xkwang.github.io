@@ -20,7 +20,7 @@ My research interests include autonous and swarm control of UAVs, especially the
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TR]</b></font> <b>Xiangke Wang</b>, Changbin Yu* and Zhiyun Lin: <i><u> A Dual Quaternion Solution to Attitude and Position Control for Rigid-body Coordination</u></i>. <font color="green">IEEE Transactions on Robotics</font> 2012. vol. 28, no. 5, pp. 1162–1170, 2012. Oct. (SCI Index: 000309728700016, IF(2012) = 2.571/3.063)  <a href = "https:">[PDF]</a></li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[JMAA]</b></font> <b>Xiangke Wang*</b>, Tengfei Liu and Jiahu Qin: <i><u> Second-order Consensus with Unknown Dynamics via Cyclic-small-gain Method</u></i>. <font color="green">IET Control Theory Application</font> vol. 6, no. 18, pp. 2748-2756, 2012 (SCI Index: 000314503400003, IF(2012)=1.717) <a href = "https:">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[KTA]]</b></font> <b>Xiangke Wang*</b>, Tengfei Liu and Jiahu Qin: <i><u> Second-order Consensus with Unknown Dynamics via Cyclic-small-gain Method</u></i>. <font color="green">IET Control Theory Application</font> vol. 6, no. 18, pp. 2748-2756, 2012 (SCI Index: 000314503400003, IF(2012)=1.717) <a href = "https:">[PDF]</a></li></p>
 
 </ol>
 
