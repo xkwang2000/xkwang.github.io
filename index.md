@@ -8,17 +8,22 @@ Professor of the College of Intelligence and Technology, National University of 
 
 My research interests include autonous and swarm control of UAVs, especially the fixed-wing UAVs and the wheeled robots, coordination control, image-serve control, collective intelligence and some related topics. Please drop me a message if you also have interests with me by my email: <u>xkwang@nudt.edu.cn</u> or <u>wxk26605771@163.com</u>.
 
-[6] Xiangke Wang*, Huayong Zhu. On the Comparisons of  Unit Dual Quaternion and Homogeneous Transformation Matrix. Advances in Applied Clifford Algebras, vol.24, no 1, pp: 213-229, 2014. (SCI Index: 000331955100016 ，IF(2012)= 0.584) 
-[7] Xiangke Wang*, Jiahu Qin, Changbin Yu. ISS Method for Coordination Control of Nonlinear Dynamical Agents under Directed Topology. IEEE Transactions on Cybernetics. vol. 44, no. 10, pp. 1832–1845, 2014. (SCI Index: 000342228100011 , IF(2012)=3.236) 
 
 
 
 
 # Selected Journal Papers
+## Year 2015
+<ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AJC]]</b></font> Huayong Zhu, Yirui Cong, <b>Xiangke Wang*</b>, Daibing Zhang, and Qingjie Zhang: <i><u> “Kronecker Basis” Based Average Consensus Analyses for High-Order Linear Multi-Agent Systems with Multiple Time Delays</u></i>. <font color="green">Asian Journal of Control</font>. vol. 17, no. 4, pp. 1444–1452, 2015. (SCI Index , IF(2013)=1.556)<a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[MPE]]</b></font> Dingcai Huang, <b>Xiangke Wang*</b>, Yifeng Niu, and Lincheng Shen: <i><u> Cooperative Output Regulation of Nonlinear Multiagent Systems under a General Directed Graph</u></i>. <font color="green">Mathematical Problems in Engineering</font>. vol. 2015, Article ID 456121, 9 pages, 2015. doi:10.1155/2015/456121<a href = "https:">[PDF]</a></li></p>
+</ol>
 
 ## Year 2014
 <ol>
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AACA]]</b></font> <b>Xiangke Wang*</b>, and Huayong Zhu: <i><u> On the Comparisons of  Unit Dual Quaternion and Homogeneous Transformation Matrix</u></i>. <font color="green">Advances in Applied Clifford Algebras</font>. vol.24, no 1, pp: 213-229, 2014. (SCI Index: 000331955100016 ，IF(2012)= 0.584) <a href = "https:">[PDF]</a></li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TC]]</b></font> <b>Xiangke Wang*</b>, Jiahu Qin, and Changbin Yu: <i><u> ISS Method for Coordination Control of Nonlinear Dynamical Agents under Directed Topology</u></i>. <font color="green">IEEE Transactions on Cybernetics</font>. vol. 44, no. 10, pp. 1832–1845, 2014. (SCI Index: 000342228100011 , IF(2012)=3.236)<a href = "https:">[PDF]</a></li></p>
 </ol>
 
