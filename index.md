@@ -50,27 +50,81 @@ My research interests include autonous and swarm control of UAVs, especially the
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCL]]</b></font> Huayong Zhu, Yirui Cong, <b>Xiangke Wang*</b>, Daibing Zhang, and Qingjie Zhang: <i><u> Consensusabilization for Continuous-Time High-Order Multiagent Systems with Time-Varying Delays</u></i>. <font color="green">Systems and Control Letters</font>. 2013（3）:831-842, 2013.  (SCI Index: 000324416600001, IF(2012)=1.383) <a href = "https:">[PDF]</a></li></p>
 </ol>
 
+## Year 2020
+<ol>
+
+
+
+</ol>
+
+## Year 2019
+<ol>
+
+
+
+</ol>
+
+## Year 2018
+<ol>
+
+
+
+</ol>
+
+
+## Year 2017
+<ol>
+
+
+
+</ol>
+
+
+
+## Year 2016
+<ol>
+
+
+
+</ol>
+
+## Year 2015
+<ol>
+
+
+
+</ol>
+
+
+
+## Year 2014
+<ol>
+
+
+
+</ol>
+
+
+## Year 2013
+<ol>
+
+
+
+</ol>
 
 ## Year 2012
 <ol> 
-[1] Wang, Xiangke*, Han Dapeng, Yu Changbin and Zheng Zhiqiang. The Geometric Structure of Unit Dual Quaternion with Application in Kinematic Control. Journal of Mathematical Analysis and Applications, v 389, n 2, p 1352-1364, 2012. Doi: 10.1016/j.jmaa.2012.01.016. (IF(2012)=1.050) 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[]</b></font> <b>Wang, Xiangke*</b>, Han Dapeng, Yu Changbin and Zheng Zhiqiang. <i><u>The Geometric Structure of Unit Dual Quaternion with Application in Kinematic Control</u></i>. <font color="green">Journal of Mathematical Analysis and Applications</font>, v 389, n 2, p 1352-1364, 2012. Doi: 10.1016/j.jmaa.2012.01.016. (IF(2012)=1.050) <a href = "https:">[PDF]</a></li></p>
 
-[2] Wang, Xiangke*; Liu, Tengfei; Qin, Jiahu. Second-order consensus with unknown dynamics via cyclic-small-gain method. IET Control Theory and Applications, v 6, n 18, p 2748-2756,  December 6, 2012. Doi: 10.1049/iet-cta.2011.0393. (IF(2012)=1.717).
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[]</b></font> <b>Wang, Xiangke*</b>; Liu, Tengfei; Qin, Jiahu. <i><u>Second-order consensus with unknown dynamics via cyclic-small-gain method</u></i>. <font color="green">IET Control Theory and Applications</font>, v 6, n 18, p 2748-2756,  December 6, 2012. Doi: 10.1049/iet-cta.2011.0393. (IF(2012)=1.717).<a href = "https:">[PDF]</a></li></p>
 
-[3] Wang, Xiangke; Yu, Changbin*; Lin, Zhiyun. A dual quaternion solution to attitude and position control for rigid-body coordination. IEEE Transactions on Robotics, v 28, n 5, p 1162-1170, 2012. Doi: 10.1109/TRO.2012.2196310. ( IF(2012) = 2.571/3.063) 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[]</b></font> <b>Wang, Xiangke</b>; Yu, Changbin*; Lin, Zhiyun. <i><u>A dual quaternion solution to attitude and position control for rigid-body coordination</u></i>. <font color="green">IEEE Transactions on Robotics</font>, v 28, n 5, p 1162-1170, 2012. Doi: 10.1109/TRO.2012.2196310. ( IF(2012) = 2.571/3.063) <a href = "https:">[PDF]</a></li></p>
 
-[4] Cui, Qingzhu*; Li, Xun; Wang, Xiangke; Zhang, Meng. Backstepping control design on the dynamics of the omni-directional mobile robot. Applied Mechanics and Materials, v 203, p 51-56, 2012. Doi: 10.4028/www.scientific.net/AMM.203.51. 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[]</b></font> Cui, Qingzhu*; Li, Xun; <b>Wang, Xiangke</b>; Zhang, Meng. <i><u>Backstepping control design on the dynamics of the omni-directional mobile robot</u></i>. <font color="green">Applied Mechanics and Materials</font>, v 203, p 51-56, 2012. Doi: 10.4028/www.scientific.net/AMM.203.51. <a href = "https:">[PDF]</a></li></p>
 
-[5] Zhang, Haiyang*; Li, Xun; Wang, Xiangke; Zhang, Meng. Grid-based clustering algorithm for sensing. Applied Mechanics and Materials, v 203, p 257-262, 2012. Doi: 10.4028/www.scientific.net/AMM.203.257. 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[]</b></font> Zhang, Haiyang*; Li, Xun; <b>Wang, Xiangke</b>; Zhang, Meng. <i><u>Grid-based clustering algorithm for sensing</u></i>. <font color="green">Applied Mechanics and Materials</font>, v 203, p 257-262, 2012. Doi: 10.4028/www.scientific.net/AMM.203.257. <a href = "https:">[PDF]</a></li></p>
 
-[6] Li, Yang; Qin, Jiahu; Lei, Fengchun; Wang, Xiangke; Zhang, Xihai. Triangle-y Exchanges on Intrinsic Knotting of Almost Complete and Complete Partite Graphs. Journal of Knot Theory and Its Ramifications, v 21, n 4, 1250034, 2012. Doi: 10.1142/S021821651100990X. (IF(2012)=0.403 )
-
-
-
-
-
-
-
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[]</b></font> Li, Yang; Qin, Jiahu; Lei, Fengchun; <b>Wang, Xiangke</b>; Zhang, Xihai. <i><u>Triangle-y Exchanges on Intrinsic Knotting of Almost Complete and Complete Partite Graphs</u></i>. <font color="green">Journal of Knot Theory and Its Ramifications</font>, v 21, n 4, 1250034, 2012. Doi: 10.1142/S021821651100990X. (IF(2012)=0.403 ) <a href = "https:">[PDF]</a></li></p>
 </ol>
 
 
