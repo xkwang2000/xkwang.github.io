@@ -153,3 +153,154 @@ My research interests include autonous and swarm control of UAVs, especially the
 
 
 
+
+# Conference Papers
+## Year 2020
+<ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICUAS]</b></font> Yang, Lingjie; Liu, Zhihong; Wang, Guanzheng; <b>Wang, Xiangke</b>. <i><u>Image-Based Visual Servo Control for Ground Target Tracking Using a Fixed-Wing UAV with Pan-Tilt Camera</u></i>. <font color="green">2020 International Conference on Unmanned Aircraft Systems, ICUAS 2020</font>, p 354-361, September 2020, 2020 International Conference on Unmanned Aircraft Systems, ICUAS 2020. Doi: 10.1109/ICUAS48674.2020.9214071. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICRAS]</b></font> <b>Wang, Xiangke*</b>; Xiao, Kun; Tan, Shaochang; Wang, Guohui; An, Xueyan; Wang, Xiang. <i><u>XTDrone: A customizable multi-rotor UAVs simulation platform</u></i>. <font color="green">2020 4th International Conference on Robotics and Automation Sciences, ICRAS 2020</font>, p 55-61, June 2020,  2020 4th International Conference on Robotics and Automation Sciences, ICRAS 2020. Doi: 10.1109/ICRAS49812.2020.9134922. <a href = "https:">[PDF]</a></li></p> 
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> He, Guang; Yu, Li; Jia, Shengde; <b>Wang, Xiangke</b>. <i><u>Simulation verification of Flight Control of a tilt tri-rotor UAV Using X-plane</u></i>. <font color="green">Chinese Control Conference, CCC</font>, v 2020-July, p 7008-7013,  July 2020, Proceedings of the 39th Chinese Control Conference, CCC 2020. Doi: 10.23919/CCC50068.2020.9188535. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Li, Huiming; Chen, Hao; Yang, Shaowu; <b>Wang, Xiangke*</b>. <i><u>Standard Formation Generation and Keeping of Unmanned Aerial Vehicles Through a Potential Functional Approach</u></i>. <font color="green">Chinese Control Conference, CCC</font>, v 2020-July, p 4771-4776, July 2020, Proceedings of the 39th Chinese Control Conference, CCC 2020. Doi: 10.23919/CCC50068.2020.9188802. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Zhang, Mengge; Li, Jie; <b>Wang, Xiangke</b>. <i><u>Distributed anti-flocking method for area coverage of multiple unmanned aerial vehicles</u></i>. <font color="green">Chinese Control Conference, CCC</font>, v 2020-July, p 4965-4970, July 2020, Proceedings of the 39th Chinese Control Conference, CCC 2020. Doi: 10.23919/CCC50068.2020.9188393 <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Huang, Huaping; He, Guang; Yu, Li; <b>Wang, Xiangke</b>. <i><u>Numerical Analysis on Aerodynamic Interference of a Novel Tilt-rotor UAV in Transition Mode</u></i>. <font color="green">Chinese Control Conference, CCC</font>,  v 2020-July, p 6043-6048, July 2020, Proceedings of the 39th Chinese Control Conference, CCC 2020. Doi: 10.23919/CCC50068.2020.9188992 <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Zhao, Shulong; <b>Wang, Xiangke</b>. <i><u>A Novel Collision Avoidance Method for Fixed-wing Unmanned Aerial Vehicles</u></i>. <font color="green">Chinese Control Conference, CCC</font>, v 2020-July, p 6738-6743, July 2020, Proceedings of the 39th Chinese Control Conference, CCC 2020. Doi: 10.23919/CCC50068.2020.9189306. <a href = "https:">[PDF]</a></li></p>
+</ol>
+
+## Year 2019
+<ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCA]</b></font> Zeng, Zhiwen; <b>Wang, Xiangke*</b>; Lu, Huimin; Xiao, Junhao; Zheng, Zhiqiang. <i><u>Bearing-based Bionic Encirclement Control Inspired by Dolphins</u></i>. <font color="green">IEEE International Conference on Control and Automation, ICCA</font>, v 2019-July, p 675-680, July 2019, 2019 IEEE 15th International Conference on Control and Automation, ICCA 2019. Doi: 10.1109/ICCA.2019.8900008. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CACRE]</b></font> Zhang, Zhiwen; Zhao, Shulong; <b>Wang, Xiangke</b>. <i><u>Research on collision avoidance of fixed-wing UAV</u></i>. <font color="green">ACM International Conference Proceeding Series,  July 19, 2019,  Proceedings - 2019 4th International Conference on Automation, Control and Robotics Engineering, CACRE 2019</font>. Doi: 10.1145/3351917.3351933. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CAC]</b></font> Wang, Yajing; Zhao, Shulong; <b>Wang, Xiangke</b>; Shen, Lincheng. <i><u>A Novel Collision Avoidance Method for Multiple Fixed-wing Unmanned Aerial Vehicles</u></i>. <font color="green">Proceedings - 2019 Chinese Automation Congress, CAC 2019, p 3621-3626, November 2019, Proceedings - 2019 Chinese Automation Congress, CAC 2019</font>. Doi: 10.1109/CAC48633.2019.8996560. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICMV]</b></font> Xu, Yinbo; Zhang, Yongwei; Liu, Huan; <b>Wang, Xiangke*</b>. <i><u>Deep learning for UAV autonomous landing based on self-built image dataset</u></i>. <font color="green">Proceedings of SPIE - The International Society for Optical Engineering, v 11041, 2019, Eleventh International Conference on Machine Vision, ICMV 2018</font>. Doi: 10.1117/12.2522751. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CSAE]</b></font> Wang, Guanzheng; Liu, Zhihong; <b>Wang, Xiangke</b>. <i><u>UAV autonomous landing using visual servo control based on aerostack</u></i>. <font color="green">ACM International Conference Proceeding Series,  October 22, 2019,  Proceedings of the 3rd International Conference on Computer Science and Application Engineering, CSAE 2019</font>. Doi: 10.1145/3331453.3361667. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CACRE]</b></font> Zhang, Mengge; Liu, Zhihong; Li, Huiming; Huang, Huaping; <b>Wang, Xiangke</b>. <i><u>Leader-follower formation control of unmanned aerial vehicles based on active disturbances rejection control</u></i>.  <font color="green">ACM International Conference Proceeding Series, July 19, 2019, Proceedings - 2019 4th International Conference on Automation, Control and Robotics Engineering, CACRE 2019</font>. Doi: 10.1145/3351917.3351930. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ASCC]</b></font> Yu, Li; He, Guang; Zhao, Shulong; <b>Wang, Xiangke</b>. <i><u>Dynamic Inversion-Based Sliding Mode Control of a Tilt Tri-Rotor UAV</u></i>. <font color="green">2019 12th Asian Control Conference, ASCC 2019</font>, p 1637-1642,  June 2019,  2019 12th Asian Control Conference, ASCC 2019. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Ding, Yu; Cong, Yirui; <b>Wang, Xiangke</b>; Li, Huiming. <i><u>Seeking the scalability in algebraic graph based unmanned aerial vehicle formation control</u></i>. <font color="green">Chinese Control Conference, CCC</font>, v 2019-July, p 6054-6060, July 2019, Proceedings of the 38th Chinese Control Conference, CCC 2019. Doi: 10.23919/ChiCC.2019.8866416. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCDC]</b></font> Liu, Zhihong; <b>Wang, Xiangke</b>; Li, Jie; Cong, Yirui; Zhao, Shulong. <i><u>A distributed and modularised coordination framework for mission oriented fixed-wing UAV swarms</u></i>. <font color="green">Proceedings of the 31st Chinese Control and Decision Conference, CCDC 2019</font>, p 3687-3692, June 2019, Proceedings of the 31st Chinese Control and Decision Conference, CCDC 2019. Doi: 10.1109/CCDC.2019.8833330. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Yang, Lingjie; Liu, Zhihong; <b>Wang, Xiangke*</b>. <i><u>A new image-based visual servo control algorithm for target tracking problem of fixed-wing unmanned aerial vehicle</u></i>. <font color="green">Chinese Control Conference, CCC</font>, v 2019-July, p 8142-8147, July 2019, Proceedings of the 38th Chinese Control Conference, CCC 2019. Doi: 10.23919/ChiCC.2019.8865341. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AIM]</b></font> Cao, Su; Shen, Lincheng; Zhang, Renshan; Yu, Huangchao; <b>Wang, Xiangke</b>. <i><u>Adaptive incremental nonlinear dynamic inversion control based on neural network for UAV maneuver</u></i>. <font color="green">IEEE/ASME International Conference on Advanced Intelligent Mechatronics, AIM</font>, v 2019-July, p 642-647, July 2019, Proceedings of the 2019 IEEE/ASME International Conference on Advanced Intelligent Mechatronics, AIM 2019. Doi: 10.1109/AIM.2019.8868510. <a href = "https:">[PDF]</a></li></p>
+</ol>
+
+## Year 2018
+<ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Xu, Yinbo; Liu, Zhihong; <b>Wang, Xiangke*</b>. <i><u>Monocular vision based autonomous landing of quadrotor through deep reinforcement learning</u></i>. <font color="green">Chinese Control Conference, CCC</font>,  v 2018-July, p 10014-10019,  October 5, 2018,  Proceedings of the 37th Chinese Control Conference, CCC 2018. Doi: 10.23919/ChiCC.2018.8482830. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Wang, Yajing; <b>Wang, Xiangke*</b>; Zhao, Shulong; Shen, Lincheng. <i><u>A Double-layer Fuzzy Controller for the Altitude of Fixed-wing Unmanned Aerial Vehicles</u></i>. <font color="green">Chinese Control Conference, CCC</font>, v 2018-July, p 10008-10013, October 5, 2018, Proceedings of the 37th Chinese Control Conference, CCC 2018. Doi: 10.23919/ChiCC.2018.8483197. <a href = "https:">[PDF]</a></li></p>
+</ol>
+
+## Year 2017
+<ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[GNCC]</b></font> Zhao, Shulong; <b>Wang, Xiangke</b>; Zhang, Daibing; Shen, Lincheng. <i><u>Model predictive control based integral line-of-sight curved path following for unmanned aerial vehicle</u></i>. <font color="green">AIAA Guidance, Navigation, and Control Conference, 2017, AIAA Guidance, Navigation, and Control Conference, 2017</font>. Doi: 10.2514/6.2017-1511. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IHMSC]</b></font> Xu, Yinbo; Zhang, Yongwei; Wang, Yajing; <b>Wang, Xiangke</b>. <i><u>Physical experimental realization of modified artificial physics method based on UAVs formation control</u></i>. <font color="green">Proceedings - 9th International Conference on Intelligent Human-Machine Systems and Cybernetics, IHMSC 2017</font>,  v 2, p 3-6,  September 20, 2017,  Proceedings - 9th International Conference on Intelligent Human-Machine Systems and Cybernetics, IHMSC 2017. Doi: 10.1109/IHMSC.2017.116. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IHMSC]</b></font> Liu, Wei; Yu, Changbin; <b>Wang, Xiangke</b>; Zhang, Yongwei; Yu, Yangguang. <i><u>The Altitude Hold Algorithm of UAV Based on Millimeter Wave Radar Sensors</u></i>. <font color="green">Proceedings - 9th International Conference on Intelligent Human-Machine Systems and Cybernetics, IHMSC 2017</font>, v 1, p 436-439, September 20, 2017, Proceedings - 9th International Conference on Intelligent Human-Machine Systems and Cybernetics, IHMSC 2017. Doi: 10.1109/IHMSC.2017.106. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCDC]</b></font> Yu, Yangguang; <b>Wang, Xiangke</b>; Zhong, Zhiwei; Zhang, Yongwei. <i><u>ROS-based UAV control using hand gesture recognition</u></i>. <font color="green">Proceedings of the 29th Chinese Control and Decision Conference, CCDC 2017</font>, p 6795-6799, July 12, 2017, Proceedings of the 29th Chinese Control and Decision Conference, CCDC 2017. Doi: 10.1109/CCDC.2017.7978402. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Zhao, Yunyun; <b>Wang, Xiangke</b>; Kong, Weiwei; Shen, Lincheng. <i><u>Information fusion analysis of multi-UAV system based on information geometry</u></i>. <font color="green">Chinese Control Conference, CCC</font>, p 8491-8496, September 7, 2017, Proceedings of the 36th Chinese Control Conference, CCC 2017. Doi: 10.23919/ChiCC.2017.8028703. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Chen, Hao; <b>Wang, Xiangke</b>; Shen, Lincheng; Chen, Jing. <i><u>Digraph-based anti-communication-destroying topology design for multi-UAV formation</u></i>. <font color="green">Chinese Control Conference, CCC</font>, p 8497-8502, September 7, 2017, Proceedings of the 36th Chinese Control Conference, CCC 2017. Doi: 10.23919/ChiCC.2017.8028704. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ROBIO]</b></font> Cheng, Qiao; <b>Wang, Xiangke</b>; Shen, Lincheng. <i><u>An autonomous inter-task mapping learning method via artificial neural network for transfer learning</u></i>. <font color="green">2017 IEEE International Conference on Robotics and Biomimetics, ROBIO 2017</font>,  v 2018-January, p 1-6,  July 2, 2017,  2017 IEEE International Conference on Robotics and Biomimetics, ROBIO 2017. Doi: 10.1109/ROBIO.2017.8324510. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Yao, Weijia; Zeng, Zhiwen; <b>Wang, Xiangke</b>; Lu, Huimin; Zheng, Zhiqiang. <i><u>Distributed encirclement control with arbitrary spacing for multiple anonymous mobile robots</u></i>. <font color="green">Chinese Control Conference, CCC</font>, p 8800-8805,  September 7, 2017,  Proceedings of the 36th Chinese Control Conference, CCC 2017. Doi: 10.23919/ChiCC.2017.8028755. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Zhang, Yongwei; Yu, Yangguang; Jia, Shengde; <b>Wang, Xiangke</b>. <i><u>Autonomous landing on ground target of UAV by using image-based visual servo control</u></i>. <font color="green">Chinese Control Conference, CCC</font>, p 11204-11209,  September 7, 2017,  Proceedings of the 36th Chinese Control Conference, CCC 2017. Doi: 10.23919/ChiCC.2017.8029145. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ROBIO]</b></font> Zhao, Yunyun; <b>Wang, Xiangke</b>; Shen, Lincheng; Kong, Weiwei. <i><u>A hierarchical decision-making algorithm of UAV for collision avoidance in target tracking</u></i>. <font color="green">2017 IEEE International Conference on Robotics and Biomimetics, ROBIO 2017</font>,  v 2018-January, p 1944-1949,  July 2, 2017,  2017 IEEE International Conference on Robotics and Biomimetics, ROBIO 2017. Doi: 10.1109/ROBIO.2017.8324703. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Cheng, Qiao; <b>Wang, Xiangke</b>; Shen, Lincheng. <i><u>Transfer learning via linear multi-variable mapping under reinforcement learning framework</u></i>. <font color="green">Chinese Control Conference, CCC</font>, p 8795-8799,  September 7, 2017,  Proceedings of the 36th Chinese Control Conference, CCC 2017. Doi: 10.23919/ChiCC.2017.8028754. <a href = "https:">[PDF]</a></li></p>
+</ol>
+
+
+## Year 2016
+<ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Zhao, Yunyun; <b>Wang, Xiangke</b>; Kong, Weiwei; Shen, Lincheng; Jia, Shengde. <i><u>Decision-making of UAV for tracking moving target via information geometry</u></i>. <font color="green">Chinese Control Conference, CCC</font>,  v 2016-August, p 5611-5617,  August 26, 2016,  Proceedings of the 35th Chinese Control Conference, CCC 2016. Doi: 10.1109/ChiCC.2016.7554231. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Fu, Yu; <b>Wang, Xiangke</b>; Zhu, Huayong; Yu, Yangguang. <i><u>Parameters optimization of multi-UAV formation control method based on artificial physics</u></i>. <font color="green">Chinese Control Conference, CCC</font>, v 2016-August, p 2614-2619, August 26, 2016, Proceedings of the 35th Chinese Control Conference, CCC 2016. Doi: 10.1109/ChiCC.2016.7553758. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCDC]</b></font> Fu, Yu; <b>Wang, Xiangke</b>; Huan, Liu; Zhu, Huayong. <i><u>Multi-UAV formation control method based on modified artificial physics</u></i>. <font color="green">Proceedings of the 28th Chinese Control and Decision Conference, CCDC 2016</font>, p 2523-2529,  August 3, 2016,  Proceedings of the 28th Chinese Control and Decision Conference, CCDC 2016. Doi: 10.1109/CCDC.2016.7531409. <a href = "https:">[PDF]</a></li></p>
+</ol>
+
+## Year 2015
+<ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Zeng, Zhiwen; <b>Wang, Xiangke</b>; Zheng, Zhiqiang. <i><u>Second-order edge agreement with locally Lipschitz dynamics under digraph via edge Laplacian and ISS method</u></i>. <font color="green">Chinese Control Conference, CCC</font>, v 2015-September, p 7190-7195,  September 11, 2015, Proceedings of the 34th Chinese Control Conference, CCC 2015. Doi:10.1109/ChiCC.2015.7260777. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Zhao, Yunyun; <b>Wang, Xiangke</b>; Zhu, Huayong. <i><u>Multiple UAVs configuration formation control via the dual quaternion method</u></i>. <font color="green">Chinese Control Conference, CCC</font>, v 2015-September, p 7207-7211,  September 11, 2015,  Proceedings of the 34th Chinese Control Conference, CCC 2015. Doi: 10.1109/ChiCC.2015.7260780. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICIA]</b></font> Zeng, Zhiwen; <b>Wang, Xiangke</b>; Zheng, Zhiqiang. <i><u>The model reduction of multi-agent system depended on the spanning tree of directed graph</u></i>. <font color="green">2015 IEEE International Conference on Information and Automation, ICIA 2015 - In conjunction with 2015 IEEE International Conference on Automation and Logistics</font>, p 1278-1282,  September 28, 2015,  2015 IEEE International Conference on Information and Automation, ICIA 2015 - In conjunction with 2015 IEEE International Conference on Automation and Logistics. Doi: 10.1109/ICInfA.2015.7279483. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICIA]</b></font> Cheng, Qiao; <b>Wang, Xiangke</b>; Yin, Dong; Niu, Yifeng; Xiang, Xiaojia; Yang, Jian; Shen, Lincheng. <i><u>The new similarity measure based on user preference models for collaborative filtering</u></i>. <font color="green">2015 IEEE International Conference on Information and Automation, ICIA 2015 - In conjunction with 2015 IEEE International Conference on Automation and Logistics</font>, p 577-582, September 28, 2015,  2015 IEEE International Conference on Information and Automation, ICIA 2015 - In conjunction with 2015 IEEE International Conference on Automation and Logistics. Doi: 10.1109/ICInfA.2015.7279353. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AUCC]</b></font> Zhao, Shulong; <b>Wang, Xiangke</b>; Zhang, Daibing; Shen, Lincheng. <i><u>Model free adaptive robust control based on GIMC structure for nonlinear discrete-time system</u></i>. <font color="green">2015 Australian Control Conference, AUCC 2015</font>, p 49-54, December 21, 2015, 2015 Australian Control Conference, AUCC 2015. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Zhao, Shulong; <b>Wang, Xiangke</b>; Kong, Weiwei; Zhang, Daibing; Shen, Lincheng. <i><u>A novel backstepping control for attitude of fixed-wing UAVs with input disturbance</u></i>. <font color="green">Chinese Control Conference, CCC</font>,  v 2015-September, p 693-697,  September 11, 2015, Proceedings of the 34th Chinese Control Conference, CCC 2015. Doi: 10.1109/ChiCC.2015.7259719. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Lei, Xin; <b>Wang, Xiangke</b>; Li, Jie; Zhang, Guozhong; Shen, Lincheng. <i><u>Expansion rate based collision avoidance for Unmanned Aerial Vehicles</u></i>. <font color="green">Chinese Control Conference, CCC</font>, v 2015-September, p 8393-8398,  September 11, 2015,  Proceedings of the 34th Chinese Control Conference, CCC 2015. Doi:  10.1109/ChiCC.2015.7260971. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICIA]</b></font> Zhao, Shulong; <b>Wang, Xiangke</b>; Kong, Weiwei; Zhang, Daibing; Shen, Lincheng. <i><u>A novel data-driven control for fixed-wing UAV path following</u></i>. <font color="green">2015 IEEE International Conference on Information and Automation, ICIA 2015 - In conjunction with 2015 IEEE International Conference on Automation and Logistics</font>, p 3051-3056,  September 28, 2015, 2015 IEEE International Conference on Information and Automation, ICIA 2015 - In conjunction with 2015 IEEE International Conference on Automation and Logistics. Doi: 10.1109/ICInfA.2015.7279812. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CAC]</b></font> Liu, Huan; <b>Wang, Xiangke</b>; Zhu, Huayong. <i><u>Multi-UAVs arbitrary formation control based on artificial physics</u></i>. <font color="green">Proceedings - 2015 Chinese Automation Congress, CAC </font>, p 1080-1085,  January 13, 2016,  Proceedings - 2015 Chinese Automation Congress, CAC 2015. Doi:  10.1109/CAC.2015.7382659. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICMA]</b></font> Liu, Huan; <b>Wang, Xiangke</b>; Zhu, Huayong. <i><u>A novel backstepping method for the three-dimensional multi-UAVs formation control</u></i>. <font color="green">2015 IEEE International Conference on Mechatronics and Automation, ICMA 2015</font>, p 923-928,  September 2, 2015,  2015 IEEE International Conference on Mechatronics and Automation, ICMA 2015. Doi: 10.1109/ICMA.2015.7237609. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICIA]</b></font> Liu, Huan; <b>Wang, Xiangke</b>; Zhu, Huayong. <i><u>Multi-UAVs formation control based on artificial physics</u></i>. <font color="green">2015 IEEE International Conference on Information and Automation, ICIA 2015 - In conjunction with 2015 IEEE International Conference on Automation and Logistics</font>, p 206-210,  September 28, 2015,  2015 IEEE International Conference on Information and Automation, ICIA 2015 - In conjunction with 2015 IEEE International Conference on Automation and Logistics. Doi: 10.1109/ICInfA.2015.7279286. <a href = "https:">[PDF]</a></li></p>
+</ol>
+
+## Year 2014
+<ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IFAC]</b></font> Jia, Shengde; <b>Wang, Xiangke</b>; Ji, Xiaoting; Zhu, Huayong. <i><u>A continuous-time Markov decision process based method on pursuit-evasion problem</u></i>. <font color="green">IFAC Proceedings Volumes (IFAC-PapersOnline)</font>,  v 19, p 620-625, 2014. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CGNCC]</b></font> Zhao, Yimyun; <b>Wang, Xiangke</b>; Zhu, Huayong. <i><u>The unit dual quaternion based flight control for a fixed-wing unmanned aerial vehicle</u></i>. <font color="green">2014 IEEE Chinese Guidance, Navigation and Control Conference, CGNCC 2014</font>, p 734-739, January 12, 2015. Doi: 10.1109/CGNCC.2014.7007303. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCDC]</b></font> Zeng, Zhiwen; <b>Wang, Xiangke</b>; Zheng, Zhiqiang. <i><u>Nonlinear consensus under directed graph via the edge Laplacian</u></i>. <font color="green">26th Chinese Control and Decision Conference, CCDC 2014</font>, p 881-886,  2014, 26th Chinese Control and Decision Conference, CCDC 2014. Doi: 10.1109/CCDC.2014.6852288. <a href = "https:">[PDF]</a></li></p>
+</ol>
+
+## Year 2013
+<ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> Cong, Yirui; <b>Wang, Xiangke</b>; Zhu, Huayong; Zhang, Daibing. <i><u>State Consensus Criteria and Protocol Parameters Design for high-order linear multi-agent systems</u></i>. <font color="green">Chinese Control Conference, CCC</font>, p 7034-7038, October 18, 2013, Proceedings of the 32nd Chinese Control Conference, CCC 2013. <a href = "https:">[PDF]</a></li></p>
+</ol>
+
+
+## Year 2012
+<ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> <b>Wang, Xiangke*</b>; Qin, Jiahu; Li, Xun; Zheng, Zhiqiang. <i><u>Formation tracking for nonlinear agents with unknown second-order locally Lipschitz continuous dynamics</u></i>. <font color="green">Chinese Control Conference, CCC</font>, p 6112-6117, 2012, Proceedings of the 31st Chinese Control Conference, CCC 2012. <a href = "https:">[PDF]</a></li></p>
+</ol>
+
+## Year 2011
+<ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CDC-ECC]</b></font> Qin, Jiahu*; Yu, Changbin; Gao, Huijun; <b>Wang, Xiangke</b>. <i><u>Leaderless consensus control of dynamical agents under directed interaction topology</u></i>. <font color="green">Proceedings of the IEEE Conference on Decision and Control, p 1455-1460, 2011, 2011 50th IEEE Conference on Decision and Control and European Control Conference, CDC-ECC 2011</font>. Doi: 10.1109/CDC.2011.6161492. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACC]</b></font> Huang, Huang; Yu, Changbin*; <b>Wang, Xiangke</b>. <i><u>Control of triangular formations with a time-varying scale function</u></i>. <font color="green">Proceedings of the American Control Conference, p 4828-4833,  2011, Proceedings of the 2011 American Control Conference, ACC 2011</font>. Doi: 10.1109/ACC.2011.5991276. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCA]</b></font> <b>Wang, Xiangke*</b>; Yu, Changbin; Lin, Zhiyun. <i><u>Error propagation and formation structure design using dual quaternion algebra</u></i>. <font color="green">IEEE International Conference on Control and Automation, ICCA</font>, p 18-23, 2011, 2011 9th IEEE International Conference on Control and Automation, ICCA 2011. Doi: 10.1109/ICCA.2011.6137966. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCC]</b></font> <b>Wang, Xiangke*</b>; Wu, Xiaoming; Yu, Changbin. <i><u>Formation stabilization with cone-like sensing field</u></i>. <font color="green">Proceedings of the 30th Chinese Control Conference, CCC 2011</font>, p 6055-6060, 2011,  Proceedings of the 30th Chinese Control Conference, CCC 2011. <a href = "https:">[PDF]</a></li></p>
+</ol>
+
+
+## Year 2010
+<ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICIRA]</b></font> <b>Wang, Xiangke*</b>; Zhang, Hui; Lu, Huimin; Zheng, Zhiqiang. <i><u>A new triple-based multi-robot system architecture and application in soccer robots</u></i>. <font color="green">Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)</font>,  v 6425 LNAI, n PART 2, p 105-115,  2010,  Intelligent Robotics and Applications - Third International Conference, ICIRA 2010, Proceedings. Doi: 10.1007/978-3-642-16587-0_11. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICIRA]</b></font> Zhang, Hui; <b>Wang, Xiangke</b>; Han, Dapeng. <i><u>Dual-quaternion-based variable structure control: A new approach and application</u></i>. <font color="green">Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)</font>,  v 6425 LNAI, n PART 2, p 75-86,  2010,  Intelligent Robotics and Applications - Third International Conference, ICIRA 2010, Proceedings. Doi: 10.1007/978-3-642-16587-0_8. <a href = "https:">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ISIC]</b></font> <b>Wang, Xiangke</b>; Yu, Changbin. <i><u>Feedback linearization regulator with coupled attitude and translation dynamics based on unit dual quaternion</u></i>. <font color="green">IEEE International Symposium on Intelligent Control - Proceedings</font>, p 2380-2384,  2010,  2010 IEEE International Symposium on Intelligent Control, ISIC 2010. Doi: 10.1109/ISIC.2010.5612894. <a href = "https:">[PDF]</a></li></p>
+</ol>
