@@ -53,11 +53,24 @@ My research interests include autonous and swarm control of UAVs, especially the
 
 ## Year 2012
 <ol> 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[JMAA]</b></font> <b>Xiangke Wang*</b>, Dapeng Han, Changbin Yu, and Zhiqiang Zheng: <i><u> The Geometric Structure of Unit Dual Quaternion with Application in Kinematic Control</u></i>. <font color="green">Journal of Mathematical Analysis and Applications</font>. vol. 389, no. 2, pp. 1352–1364, 2012. (SCI Index: 000300206700052, IF(2012)=1.050) <a href = "https://github.com/xkwang2000/xkwang2000.github.io/blob/gh-pages/papers/2012-The%20geometric%20structure%20of%20unit%20dual%20quaternion%20with%20applicationin%20kinematic%20control.pdf">[PDF]</a></li></p>
+[1] Wang, Xiangke*, Han Dapeng, Yu Changbin and Zheng Zhiqiang. The Geometric Structure of Unit Dual Quaternion with Application in Kinematic Control. Journal of Mathematical Analysis and Applications, v 389, n 2, p 1352-1364, 2012. Doi: 10.1016/j.jmaa.2012.01.016. (IF(2012)=1.050) 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TR]</b></font> <b>Xiangke Wang</b>, Changbin Yu* and Zhiyun Lin: <i><u> A Dual Quaternion Solution to Attitude and Position Control for Rigid-body Coordination</u></i>. <font color="green">IEEE Transactions on Robotics</font>, 2012. vol. 28, no. 5, pp. 1162–1170, 2012. Oct. (SCI Index: 000309728700016, IF(2012) = 2.571/3.063)  <a href = "https:">[PDF]</a></li></p>
+[2] Wang, Xiangke*; Liu, Tengfei; Qin, Jiahu. Second-order consensus with unknown dynamics via cyclic-small-gain method. IET Control Theory and Applications, v 6, n 18, p 2748-2756,  December 6, 2012. Doi: 10.1049/iet-cta.2011.0393. (IF(2012)=1.717).
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[KTA]]</b></font> <b>Xiangke Wang*</b>, Tengfei Liu and Jiahu Qin: <i><u> Second-order Consensus with Unknown Dynamics via Cyclic-small-gain Method</u></i>. <font color="green">IET Control Theory Application</font>. vol. 6, no. 18, pp. 2748-2756, 2012 (SCI Index: 000314503400003, IF(2012)=1.717) <a href = "https:">[PDF]</a></li></p>
+[3] Wang, Xiangke; Yu, Changbin*; Lin, Zhiyun. A dual quaternion solution to attitude and position control for rigid-body coordination. IEEE Transactions on Robotics, v 28, n 5, p 1162-1170, 2012. Doi: 10.1109/TRO.2012.2196310. ( IF(2012) = 2.571/3.063) 
+
+[4] Cui, Qingzhu*; Li, Xun; Wang, Xiangke; Zhang, Meng. Backstepping control design on the dynamics of the omni-directional mobile robot. Applied Mechanics and Materials, v 203, p 51-56, 2012. Doi: 10.4028/www.scientific.net/AMM.203.51. 
+
+[5] Zhang, Haiyang*; Li, Xun; Wang, Xiangke; Zhang, Meng. Grid-based clustering algorithm for sensing. Applied Mechanics and Materials, v 203, p 257-262, 2012. Doi: 10.4028/www.scientific.net/AMM.203.257. 
+
+[6] Li, Yang; Qin, Jiahu; Lei, Fengchun; Wang, Xiangke; Zhang, Xihai. Triangle-y Exchanges on Intrinsic Knotting of Almost Complete and Complete Partite Graphs. Journal of Knot Theory and Its Ramifications, v 21, n 4, 1250034, 2012. Doi: 10.1142/S021821651100990X. (IF(2012)=0.403 )
+
+
+
+
+
+
+
 </ol>
 
 
