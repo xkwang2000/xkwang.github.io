@@ -1,4 +1,4 @@
 Welcome Here!
 
-The homepage address is: https://xkwang2000.github.io/
+Homepage address: https://xkwang2000.github.io/
 
