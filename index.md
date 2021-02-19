@@ -304,3 +304,4 @@ My research interests include autonous and swarm control of UAVs, especially the
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ISIC]</b></font> <b>Wang, Xiangke</b>; Yu, Changbin. <i><u>Feedback linearization regulator with coupled attitude and translation dynamics based on unit dual quaternion</u></i>. <font color="green">IEEE International Symposium on Intelligent Control - Proceedings</font>, p 2380-2384,  2010,  2010 IEEE International Symposium on Intelligent Control, ISIC 2010. Doi: 10.1109/ISIC.2010.5612894. <a href = "https://github.com/xkwang2000/xkwang2000.github.io/blob/main/papers/2010/201003%20Feedback%20Linearization%20Regulator%20with%20Coupled%20Attitude%20and%20Translation%20Dynamics%20Based%20on%20Unit%20Dual%20Quaternion.pdf">[PDF]</a></li></p>
 </ol>
+
